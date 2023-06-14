@@ -1,4 +1,4 @@
-##Faça um programa contendo uma função/método para subtrair dois números, retornar o resultado e o apresentando.
+# Algoritmo contendo uma função/método para subtrair dois números, retornar o resultado e o apresentando.
 
 def subtrair():
   num1 = int(input('Insira o primeiro número: '))

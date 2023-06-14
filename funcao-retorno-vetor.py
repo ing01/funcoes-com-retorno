@@ -1,5 +1,5 @@
-##Faça uma função/método que leia e armazene 5 elementos inteiros no vetor A, deverá ser gerado um vetor B, de mesmo tamanho, que armazenará o fatorial de cada elemento de A. 
-##Retorne/apresente o vetor B.
+# Algoritmo com função/método que leia e armazene 5 elementos inteiros no vetor A, deverá ser gerado um vetor B, de mesmo tamanho, que armazenará o fatorial de cada elemento de A. 
+# Retorne/apresente o vetor B.
 
 def fatorial():
   vetorA = []

@@ -1,4 +1,4 @@
-##Faça um programa contendo uma função/método que leia um número e o multiplique por 2 retornando o resultado, apresente o resultado da função.
+# Algorimto contendo uma função/método que leia um número e o multiplique por 2 retornando o resultado, apresente o resultado da função.
 
 def multi():
   num = int(input('Insira um número: '))
